@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>ALWAYS GO</title>
   <!-- ✅ CSS 경로 수정 (같은 폴더 기준) -->
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="css" />
 </head>
 <body>
   <div class="bg-layer"></div>
