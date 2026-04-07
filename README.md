@@ -1,6 +1,4 @@
-<!-- index.html -->
-<!DOCTYPE html>
-<html lang="ko">
+<html>
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -86,7 +84,6 @@
   </main>
 
   <footer class="site-footer">
-    HTML + CSS 버전 (JS 없음)
   </footer>
 </body>
 </html>
